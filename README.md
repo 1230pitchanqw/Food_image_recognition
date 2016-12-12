@@ -16,3 +16,4 @@
 ## Result
 ![alt tag](Food_image_recognition/result/21.png)
 ![Alt text](Food_image_recognition/result/21.png?raw=true "Title")
+![alt tag](https://github.com/1230pitchanqw/Food_image_recognition/Food_image_recognition/result/21.png)
