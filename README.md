@@ -12,3 +12,6 @@
 2. "Sanity_Check" folder is used to make sure the model is running good, "sanity_check.ipynb" is used to check whether the features extracted by pretrained CNN is good or not, the idea is if two location contains similar things, then they will be similar (by using cos_sim or dot_product). I also write a function to check whether the model contains enough capacity, the idea is  Allocate a fixed representation vector f_label for each of the labels. Then, for each image, instead of using as input the convolutional layer with the features a_l, set all a_l's to 0 and then randomly replace some of the a_l with the (fixed) corresponding representation of a true label of that image. The model should do very well 
 
 3. Run "model.py" to train, and then since it also contain the testing code, so comment out train and run it again to see the result.
+
+## Result
+![alt tag](http://url/to/img.png)
