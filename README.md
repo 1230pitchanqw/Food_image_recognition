@@ -22,7 +22,7 @@ The result is not very good because the data I can download from google is very 
 
 
 
-Note that I aslo ran a similar model and have a better result. This work is done using a published dataset-- Food101, with 101 categories and 101,000 food images.\\
+Note that I aslo ran a similar model and have a better result. This work is done using a published dataset-- Food101, with 101 categories and 101,000 food images.
 
 ![alt tag](https://github.com/1230pitchanqw/Food_image_recognition/blob/master/result/21.png)
 
