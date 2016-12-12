@@ -14,6 +14,4 @@
 3. Run "model.py" to train, and then since it also contain the testing code, so comment out train and run it again to see the result.
 
 ## Result
-![alt tag](Food_image_recognition/result/21.png)
-![Alt text](Food_image_recognition/result/21.png?raw=true "Title")
 ![alt tag](https://github.com/1230pitchanqw/Food_image_recognition/master/Food_image_recognition/result/21.png)
