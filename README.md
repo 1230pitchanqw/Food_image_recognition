@@ -4,3 +4,7 @@
 2. Use [VGG-19 pretrained CNN](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) to extract the features of the images (here use the con5_3 layer, and the output feature shape is (512,14,14)).
 3. Build the attention model and adjust the parameters.
 4. Done.
+
+## Implement
+
+1.
