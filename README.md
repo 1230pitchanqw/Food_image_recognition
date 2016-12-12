@@ -14,4 +14,4 @@
 3. Run "model.py" to train, and then since it also contain the testing code, so comment out train and run it again to see the result.
 
 ## Result
-![alt tag](http://url/to/img.png)
+![alt tag](Screenshot from 2016-12-08 21:31:50.png)
