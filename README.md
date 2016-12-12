@@ -7,4 +7,6 @@
 
 ## Implement
 
-1.
+1. "Feature_Extraction" folder is used to extract features, "Preprossing" is used after the raw image is download from google, "Feature_Extra" is to extract features and encode labels, "cnn_util" contains the functions to preprocess the raw image (resize) and build CNN model with pretrained weight to extract features.
+
+2. 
