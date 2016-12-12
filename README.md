@@ -14,4 +14,4 @@
 3. Run "model.py" to train, and then since it also contain the testing code, so comment out train and run it again to see the result.
 
 ## Result
-![alt tag](Food_image_recognition/result/Screenshot from 2016-12-08 21:31:50.png)
+![alt tag](Food_image_recognition/result/21.png)
